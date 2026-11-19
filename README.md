@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="" alt="AURUM AI — Универсальный инструмент" width="100%" />
+<img src="Gemini_Generated_Image_l5yz22l5yz22l5yz.jpg" alt="AURUM AI — Универсальный инструмент" width="100%" />
 
 <br />
 
